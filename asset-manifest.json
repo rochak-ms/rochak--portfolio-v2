@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/rochak--portfolio-v2/static/css/main.69f87ddd.css",
-    "main.js": "/rochak--portfolio-v2/static/js/main.4fc5ee64.js",
+    "main.css": "/rochak--portfolio-v2/static/css/main.eaf44c99.css",
+    "main.js": "/rochak--portfolio-v2/static/js/main.01c5eac4.js",
+    "static/media/logo192.png": "/rochak--portfolio-v2/static/media/logo192.16b02aa7733fc441af56.png",
     "index.html": "/rochak--portfolio-v2/index.html",
-    "main.69f87ddd.css.map": "/rochak--portfolio-v2/static/css/main.69f87ddd.css.map",
-    "main.4fc5ee64.js.map": "/rochak--portfolio-v2/static/js/main.4fc5ee64.js.map"
+    "main.eaf44c99.css.map": "/rochak--portfolio-v2/static/css/main.eaf44c99.css.map",
+    "main.01c5eac4.js.map": "/rochak--portfolio-v2/static/js/main.01c5eac4.js.map"
   },
   "entrypoints": [
-    "static/css/main.69f87ddd.css",
-    "static/js/main.4fc5ee64.js"
+    "static/css/main.eaf44c99.css",
+    "static/js/main.01c5eac4.js"
   ]
 }
