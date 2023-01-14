@@ -1,0 +1,95 @@
+.logo{
+  background: rgba(0, 0, 0);
+  width: max-content;
+  display: block;
+  z-index: 2;
+  position: fixed;
+  left: 5%;
+  top: 2rem;
+  border-radius: 3rem;
+}
+
+.logo img{
+  width: 5rem;
+}
+
+nav {
+  background: hsl(0deg 0% 41% / 11%);
+  width: max-content;
+  display: block;
+  padding: 0.7rem 1.7rem;
+  z-index: 2;
+  position: fixed;
+  left: 50%;
+  transform: translate(-50%);
+  top: 2rem;
+  display: flex;
+  gap: 0.8rem;
+  border-radius: 3rem;
+  backdrop-filter: blur(15px);
+}
+
+nav a {
+  background: transparent;
+  padding: 0.8rem;
+  border-radius: 50%;
+  display: flex;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 1.5rem;
+}
+
+nav a.active{
+  color: rgb(232, 50, 50);
+  border: 0.02rem solid #fff;
+}
+
+i:hover {
+  color: rgb(232, 50, 50);
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+  
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
+  
+}
+
+@media screen and (max-width: 576px) {
+  .logo{
+    width: max-content;
+    display: block;
+    z-index: 2;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%);
+    top: 2rem;
+    border-radius: 3rem;
+  }
+  
+  .logo img{
+    width: 100px;
+  }
+
+  nav {
+    padding: 0.6rem 1.7rem;
+    top: calc(100% - 15%);
+  }
+  
+  nav a {
+    padding: 0.6rem;
+    font-size: 1.2rem;
+  }
+
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+  
+  }
+
+
+  
