@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rochak--portfolio-v2/static/css/main.9ba60cea.css",
+    "main.css": "/rochak--portfolio-v2/static/css/main.fc6cd6c2.css",
     "main.js": "/rochak--portfolio-v2/static/js/main.28ffa752.js",
     "static/media/ProPic1.png": "/rochak--portfolio-v2/static/media/ProPic1.2bd5fc0c5af8615b895c.png",
     "static/media/logo192.png": "/rochak--portfolio-v2/static/media/logo192.16b02aa7733fc441af56.png",
     "index.html": "/rochak--portfolio-v2/index.html",
-    "main.9ba60cea.css.map": "/rochak--portfolio-v2/static/css/main.9ba60cea.css.map",
+    "main.fc6cd6c2.css.map": "/rochak--portfolio-v2/static/css/main.fc6cd6c2.css.map",
     "main.28ffa752.js.map": "/rochak--portfolio-v2/static/js/main.28ffa752.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ba60cea.css",
+    "static/css/main.fc6cd6c2.css",
     "static/js/main.28ffa752.js"
   ]
 }
