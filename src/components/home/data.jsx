@@ -1,0 +1,28 @@
+import React from "react";
+
+const Data = () => {  
+  return (
+    <div className="home__data">
+      <h1 className="home__title">
+        Hi,<br></br>
+        I'm Rochak Shrestha
+      </h1>
+      <h3 className="home__subtitle">Web Developer</h3>
+
+      <p className="home__description">
+        I'm a full stact web developer based in Perth, Western Australia.
+      </p>
+
+    
+      <a href="#contact" class="cnt">
+  <span>Lets Talk</span>
+  <svg viewBox="0 0 13 10" height="10px" width="15px">
+    <path d="M1,5 L11,5"></path>
+    <polyline points="8 1 12 5 8 9"></polyline>
+  </svg>
+</a>
+    </div>
+  );
+};
+
+export default Data;
